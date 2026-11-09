@@ -1,7 +1,7 @@
 {
   "hackerrank": {
-    "solved": 4,
-    "easy": 4,
+    "solved": 5,
+    "easy": 5,
     "medium": 0,
     "hard": 0,
     "unknown": 0,
@@ -29,6 +29,12 @@
         "category": "easy",
         "language": "MySQL",
         "date": "2026-11-09T14:34:26.476Z"
+      },
+      "japanese-cities-attributes": {
+        "difficulty": "Easy",
+        "category": "easy",
+        "language": "MySQL",
+        "date": "2026-11-09T14:35:32.697Z"
       }
     }
   }
