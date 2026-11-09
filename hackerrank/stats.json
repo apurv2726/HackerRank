@@ -1,7 +1,7 @@
 {
   "hackerrank": {
-    "solved": 15,
-    "easy": 15,
+    "solved": 16,
+    "easy": 16,
     "medium": 0,
     "hard": 0,
     "unknown": 0,
@@ -95,6 +95,12 @@
         "category": "easy",
         "language": "MySQL",
         "date": "2026-11-09T23:53:10.270Z"
+      },
+      "african-cities": {
+        "difficulty": "Easy",
+        "category": "easy",
+        "language": "MySQL",
+        "date": "2026-11-09T23:57:24.782Z"
       }
     }
   }
