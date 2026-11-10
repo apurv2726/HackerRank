@@ -1,7 +1,7 @@
 {
   "hackerrank": {
-    "solved": 16,
-    "easy": 16,
+    "solved": 17,
+    "easy": 17,
     "medium": 0,
     "hard": 0,
     "unknown": 0,
@@ -101,6 +101,12 @@
         "category": "easy",
         "language": "MySQL",
         "date": "2026-11-09T23:57:24.782Z"
+      },
+      "average-population-of-each-continent": {
+        "difficulty": "Easy",
+        "category": "easy",
+        "language": "MySQL",
+        "date": "2026-11-10T00:01:33.984Z"
       }
     }
   }
