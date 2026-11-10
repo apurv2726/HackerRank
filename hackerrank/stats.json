@@ -1,7 +1,7 @@
 {
   "hackerrank": {
-    "solved": 16,
-    "easy": 14,
+    "solved": 17,
+    "easy": 15,
     "medium": 2,
     "hard": 0,
     "unknown": 0,
@@ -101,6 +101,12 @@
         "category": "medium",
         "language": "MySQL",
         "date": "2026-11-10T21:45:18.103Z"
+      },
+      "the-blunder": {
+        "difficulty": "Easy",
+        "category": "easy",
+        "language": "MySQL",
+        "date": "2026-11-10T21:54:03.464Z"
       }
     }
   }
