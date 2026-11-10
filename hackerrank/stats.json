@@ -1,0 +1,17 @@
+{
+  "hackerrank": {
+    "solved": 1,
+    "easy": 1,
+    "medium": 0,
+    "hard": 0,
+    "unknown": 0,
+    "shas": {
+      "weather-observation-station-5": {
+        "difficulty": "Easy",
+        "category": "easy",
+        "language": "MySQL",
+        "date": "2026-11-10T01:36:53.896Z"
+      }
+    }
+  }
+}
