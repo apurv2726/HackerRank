@@ -1,7 +1,7 @@
 {
   "hackerrank": {
-    "solved": 6,
-    "easy": 6,
+    "solved": 7,
+    "easy": 7,
     "medium": 0,
     "hard": 0,
     "unknown": 0,
@@ -41,6 +41,12 @@
         "category": "easy",
         "language": "MySQL",
         "date": "2026-11-10T01:15:31.321Z"
+      },
+      "weather-observation-station-4": {
+        "difficulty": "Easy",
+        "category": "easy",
+        "language": "MySQL",
+        "date": "2026-11-10T01:16:42.580Z"
       }
     }
   }
