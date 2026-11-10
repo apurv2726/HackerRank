@@ -1,7 +1,7 @@
 {
   "hackerrank": {
-    "solved": 18,
-    "easy": 18,
+    "solved": 19,
+    "easy": 19,
     "medium": 0,
     "hard": 0,
     "unknown": 0,
@@ -113,6 +113,12 @@
         "category": "easy",
         "language": "MySQL",
         "date": "2026-11-10T00:09:02.843Z"
+      },
+      "more-than-75-marks": {
+        "difficulty": "Easy",
+        "category": "easy",
+        "language": "MySQL",
+        "date": "2026-11-10T00:15:29.996Z"
       }
     }
   }
