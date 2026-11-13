@@ -1,8 +1,8 @@
 {
   "hackerrank": {
-    "solved": 17,
+    "solved": 18,
     "easy": 15,
-    "medium": 2,
+    "medium": 3,
     "hard": 0,
     "unknown": 0,
     "shas": {
@@ -107,6 +107,12 @@
         "category": "easy",
         "language": "MySQL",
         "date": "2026-11-10T21:54:03.464Z"
+      },
+      "print-prime-numbers": {
+        "difficulty": "Medium",
+        "category": "medium",
+        "language": "MySQL",
+        "date": "2026-11-13T11:35:26.563Z"
       }
     }
   }
